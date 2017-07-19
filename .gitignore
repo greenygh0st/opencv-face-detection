@@ -1,0 +1,4 @@
+/training/*
+!/training/README.md
+!/training/subject01.*
+.DS_Store
